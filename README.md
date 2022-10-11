@@ -1,1 +1,7 @@
-# Code Refactor Starter Code
+# Horiseon social solution services 
+Challenge -1 
+
+# user story 
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines

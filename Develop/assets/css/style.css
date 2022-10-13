@@ -68,7 +68,7 @@ p {
     background-position: center;
 }
 
-
+/* How the image wrap inside the paragraph */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -85,6 +85,7 @@ p {
     margin-left: 20px;
 }
 
+/* Properties for right side column */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -128,6 +129,7 @@ p {
     text-align: center;
 }
 
+/* Properties for images in right side column*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;

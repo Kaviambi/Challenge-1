@@ -42,3 +42,9 @@ Here are the changes we have made in this challenge -
 
 6. We gave clear comments in the CSS style sheet which is helpful for the developer to undestand the flow. 
 
+Here is the link for the deployed page -
+https://kaviambi.github.io/Logical-structure-challenge/
+
+**Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
+
+
